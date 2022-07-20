@@ -1,10 +1,10 @@
-<img align="right" width="200" height="200" src="https://media3.giphy.com/media/y5OffROvBod0s/giphy.gif?cid=ecf05e47iv7qc1k4oxd1lhgklgxvyks2i2a6lwycgzc8m8fl&rid=giphy.gif&ct=g" >
+## *Olá, bem vindo ao meu perfil !* 👋
 
-## Olá, me chamo Maysa Figueiredo ! 
-### Bem vindo ao meu perfil GitHub 👋
-
-Tenho 30 anos e moro em São Paulo/SP. Sou iniciante no universo da programação, passei por uma transição de carreira em Outubro/2021. 
-Nesse processo de transição fiz um curso de desenvolvimento web, estou fazendo um bootcamp de desenvolvimento backend e graduação em Análise e Desenvolvimento de Sistemas.
+- Me chamo *Maysa Figueiredo*, tenho 30 anos e moro em São Paulo/SP
+- Sou iniciante no mundo da programação, passei por uma transição de carreira em Outubro de 2021
+- Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/)
+- Turma On16 backend da [Reprograma](https://reprograma.com.br/)
+- Técnica em Desenvolvimento de Software na [Totvs](https://www.totvs.com/)
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
