@@ -6,23 +6,33 @@
 - Turma On16 backend da [Reprograma](https://reprograma.com.br/)
 - Técnica em Desenvolvimento de Software na [TOTVS](https://www.totvs.com/)
 
+
+
 ### 🖥️ Tecnologias e Ferramentas: 
+  
+ <code><img src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor" title = "HTML"/></code>
+ <code><img src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor" title = "CSS"/></code>
+ <code><img src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor" title = "JAVASCRIPT"/></code>
+ <code><img src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor" title = "NODEJS"/></code>
+ <code><img src="https://icongr.am/devicon/python-original.svg?size=30&color=currentColor" title = "PYTHON"/></code>
+ <code><img src="https://icongr.am/devicon/mongodb-original.svg?size=30&color=currentColor" title = "MONGODB"/></code>
+ <code><img src="https://icongr.am/devicon/oracle-original.svg?size=30&color=currentColor" title = "ORACLE"/></code>
+ <code><img src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor" title = "GIT"/></code>
+ <code><img src="https://icongr.am/devicon/heroku-original.svg?size=30&color=currentColor" title = "HEROKU"/></code>
+ 
+ 
+### 📧 Contatos :
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="left">
+<code><a href="https://www.linkedin.com/in/maysa-figueiredo/"><img src="https://icongr.am/simple/linkedin.svg?size=25&color=currentColor&colored=false" alt="linkedin"></a></code>
+<code><a href="https://discord.gg/Maysa Figueiredo#9652"><img src="https://icongr.am/simple/discord.svg?size=25&color=currentColor&colored=false" alt="discord"></a></code>
+<code><a href="mailto:maysafig@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=25&color=currentColor&colored=false" alt="email"></a></code>
+</p>
 
-
-## 🎯 **GitHub Estatísticas**
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysafig&theme=dracula&hide_langs_below=1" />
+##
+<p align="center">
+<a href="https://github.com/Maysafig">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maysafig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maysafig&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maysafig&show_icons=true&theme=dracula&line_height=27" alt="**Maysa Figueiredo** github stats"/>
-</a>
-
-## 📧 Contatos 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/Maysafig)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/maysa-figueiredo/n)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:maysafig@gmail.com)
+</p>
