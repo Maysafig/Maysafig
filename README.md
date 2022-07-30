@@ -1,12 +1,10 @@
 ## *Olá, bem vindo ao meu perfil !* 👋
 
 - Me chamo *Maysa Figueiredo*, tenho 30 anos e moro em São Paulo/SP
-- Sou iniciante no mundo da programação, passei por uma transição de carreira em Outubro de 2021
-- Análise e Desenvolvimento de Sistemas na [Faculdade Impacta](https://www.impacta.edu.br/)
-- Turma On16 backend da [Reprograma](https://reprograma.com.br/)
+- Transição de carreira em 2022 
+- Cursando ADS na Impacta, utilizando Python como linguagem principal
+- Aluna da On16backend - Todas em Tech - Reprograma - Utilizando Javascript e Nodejs
 - Técnica em Desenvolvimento de Software na [TOTVS](https://www.totvs.com/)
-
-
 
 ### 🖥️ Tecnologias e Ferramentas: 
   
@@ -19,14 +17,13 @@
  <code><img src="https://icongr.am/devicon/oracle-original.svg?size=30&color=currentColor" title = "ORACLE"/></code>
  <code><img src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor" title = "GIT"/></code>
  <code><img src="https://icongr.am/devicon/heroku-original.svg?size=30&color=currentColor" title = "HEROKU"/></code>
- 
- 
+  
 ### 📧 Contatos :
 
 <p align="left">
-<code><a href="https://www.linkedin.com/in/maysa-figueiredo/"><img src="https://icongr.am/simple/linkedin.svg?size=25&color=currentColor&colored=false" alt="linkedin"></a></code>
-<code><a href="https://discord.gg/Maysa Figueiredo#9652"><img src="https://icongr.am/simple/discord.svg?size=25&color=currentColor&colored=false" alt="discord"></a></code>
-<code><a href="mailto:maysafig@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=25&color=currentColor&colored=false" alt="email"></a></code>
+<code><a href="https://www.linkedin.com/in/maysa-figueiredo/"><img src="https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor" alt="linkedin"></a></code>
+<code><a href="https://discord.gg/Maysa Figueiredo#9652"><img src="https://icongr.am/simple/discord.svg?size=30&color=currentColor&colored=purple" alt="discord"></a></code>
+<code><a href="mailto:maysafig@gmail.com"><img src="https://icongr.am/simple/gmail.svg?size=30&color=currentColor&colored=red" alt="email"></a></code>
 </p>
 
 ##
