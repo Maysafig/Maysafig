@@ -1,10 +1,10 @@
 ## *Olá, bem vindo ao meu perfil !* 👋
 
-- Me chamo *Maysa Figueiredo*, tenho 30 anos e moro em São Paulo/SP
+- Me chamo *Maysa Figueiredo*, tenho 31 anos e moro em São Paulo/SP
 - Transição de carreira em 2022 
 - Cursando ADS na Impacta, utilizando Python como linguagem principal
 - Aluna da On16backend - Todas em Tech - Reprograma - Utilizando Javascript e Nodejs
-- Técnica em Desenvolvimento de Software na [TOTVS](https://www.totvs.com/)
+- Analista I de Desenvolvimento de Software na [TOTVS](https://www.totvs.com/)
 
 ### 🖥️ Tecnologias e Ferramentas: 
   
